@@ -4,7 +4,6 @@
     Platform / Automation / DevOps / System Reliability Engineer
   </p>
   <p>
-    <!-- Icon-only contacts (inline SVG, no external deps) -->
     <p align="center">
       <a href="mailto:d.parshenkov@truehhart.com" title="Email" style="text-decoration:none;">
         <svg xmlns="http://www.w3.org/2000/svg" width="26" height="26" viewBox="0 0 24 24" fill="none" aria-label="Email">
@@ -24,8 +23,11 @@
       &nbsp;&nbsp;&nbsp;
       <a href="https://github.com/truehhart" title="GitHub" style="text-decoration:none;">
         <svg xmlns="http://www.w3.org/2000/svg" width="26" height="26" viewBox="0 0 24 24" fill="none" aria-label="GitHub">
-          <path d="M12 2.75a9.25 9.25 0 0 0-2.93 18.02c.46.08.63-.2.63-.45v-1.6c-2.6.57-3.15-1.1-3.15-1.1-.43-1.08-1.05-1.37-1.05-1.37-.86-.58.06-.57.06-.57.95.07 1.45.98 1.45.9
-
+          <path d="M12 2.75a9.25 9.25 0 0 0-2.93 18.02c.46.08.63-.2.63-.45v-1.6c-2.6.57-3.15-1.1-3.15-1.1-.43-1.08-1.05-1.37-1.05-1.37-.86-.58.06-.57.06-.57.95.07 1.45.98 1.45.98.85 1.45 2.22 1.03 2.76.79.09-.62.33-1.03.6-1.27-2.08-.24-4.27-1.04-4.27-4.65 0-1.03.37-1.87.97-2.53-.1-.24-.42-1.2.09-2.5 0 0 .79-.25 2.58.97a8.9 8.9 0 0 1 4.7 0c1.79-1.22 2.58-.97 2.58-.97.51 1.3.19 2.26.1 2.5.6.66.96 1.5.96 2.53 0 3.62-2.2 4.41-4.3 4.64.34.29.65.88.65 1.78v2.63c0 .25.16.53.64.45A9.25 9.25 0 0 0 12 2.75Z"
+                fill="#fff"/>
+        </svg>
+      </a>
+    </p>
 
 </div>
 
