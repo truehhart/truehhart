@@ -4,9 +4,9 @@
     <a href="mailto:d.parshenkov@truehhart.com" style="text-decoration: none; color: inherit;">
       d.parshenkov@truehhart.com
     </a>
+    <a href="https://www.linkedin.com/in/dmitry-parshenkov" target="blank"><img align="center" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/linkedin.svg" alt="dmitry-parshenkov" height="30" width="40" /></a>
   </p>
   <p align="center">
-  <a href="https://www.linkedin.com/in/dmitry-parshenkov" target="blank"><img align="center" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/linkedin.svg" alt="dmitry-parshenkov" height="30" width="40" /></a>
   </p>
 </div>
 
