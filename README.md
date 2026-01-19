@@ -5,7 +5,16 @@
       d.parshenkov@truehhart.com
     </a>
   </p>
-  <table align="center" cellspacing="0" cellpadding="0" style="border: none; border-collapse: collapse;">
+  <p align="center">
+    <a href="https://www.linkedin.com/in/dmitry-parshenkov">
+      <img src="./public/linkedin.svg" alt="LinkedIn" />
+    </a>
+    <a href="https://github.com/truehhart">
+      <img src="./public/github.svg" alt="GitHub" />
+    </a>
+  </p>
+
+  <!--<table align="center" cellspacing="0" cellpadding="0" style="border: none; border-collapse: collapse;">
     <tr>
       <td style="border: none; padding: 0 10px;">
         <a href="https://www.linkedin.com/in/dmitry-parshenkov/" title="LinkedIn" style="text-decoration: none;">
@@ -18,7 +27,7 @@
         </a>
       </td>
     </tr>
-  </table>
+  </table>-->
 
 </div>
 
