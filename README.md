@@ -3,17 +3,31 @@
   <p>
     Platform / Automation / DevOps / System Reliability Engineer
   </p>
-  <p align="center">
-    <a href="mailto:d.parshenkov@truehhart.com" title="Email">
-      <img src="./public/mail.svg" alt="Email" width="26" height="26" />
-    </a>
-    <a href="https://www.linkedin.com/in/dmitry-parshenkov/" title="LinkedIn">
-      <img src="./public/linkedin.svg" alt="LinkedIn" width="26" height="26" />
-    </a>
-    <a href="https://github.com/truehhart" title="GitHub">
-      <img src="./public/github.svg" alt="GitHub" width="26" height="26" />
-    </a>
-  </p>
+  <table align="center" role="presentation" cellpadding="0" cellspacing="0" style="border-collapse:collapse;">
+    <tr>
+      <td style="padding:0 10px;">
+        <a href="mailto:d.parshenkov@truehhart.com" title="Email" style="text-decoration:none;">
+          <span style="display:inline-flex; align-items:center; justify-content:center; width:34px; height:34px; background:#fff; border-radius:10px; padding:4px;">
+            <img src="./public/mail.png" alt="Email" width="22" height="22" style="display:block; border:0; outline:none;" />
+          </span>
+        </a>
+      </td>
+      <td style="padding:0 10px;">
+        <a href="https://www.linkedin.com/in/dmitry-parshenkov/" title="LinkedIn" style="text-decoration:none;">
+          <span style="display:inline-flex; align-items:center; justify-content:center; width:34px; height:34px; background:#fff; border-radius:10px; padding:4px;">
+            <img src="./public/linkedin.png" alt="LinkedIn" width="22" height="22" style="display:block; border:0; outline:none;" />
+          </span>
+        </a>
+      </td>
+      <td style="padding:0 10px;">
+        <a href="https://github.com/truehhart" title="GitHub" style="text-decoration:none;">
+          <span style="display:inline-flex; align-items:center; justify-content:center; width:34px; height:34px; background:#fff; border-radius:10px; padding:4px;">
+            <img src="./public/github.png" alt="GitHub" width="22" height="22" style="display:block; border:0; outline:none;" />
+          </span>
+        </a>
+      </td>
+    </tr>
+  </table>
 
 </div>
 
