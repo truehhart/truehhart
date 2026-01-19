@@ -1,25 +1,22 @@
-<!-- Minimal GitHub Profile README (HTML-first) -->
-
 <div align="center">
   <h1>Dmitrii Parshenkov</h1>
   <p>
     Platform / Automation / DevOps / System Reliability Engineer
   </p>
-
-  <!-- Contact icons -->
   <p>
     <a href="mailto:d.parshenkov@truehhart.com" title="Email">
-      <img height="22" alt="Email" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gmail.svg" />
+      <img height="22" alt="Email" src="https://cdn.simpleicons.org/gmail/111111/FFFFFF" />
     </a>
     &nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/dmitry-parshenkov/" title="LinkedIn">
-      <img height="22" alt="LinkedIn" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg" />
+      <img height="22" alt="LinkedIn" src="https://cdn.simpleicons.org/linkedin/0A66C2/FFFFFF" />
     </a>
     &nbsp;&nbsp;
     <a href="https://github.com/truehhart" title="GitHub">
-      <img height="22" alt="GitHub" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg" />
+      <img height="22" alt="GitHub" src="https://cdn.simpleicons.org/github/111111/FFFFFF" />
     </a>
   </p>
+
 </div>
 
 <hr />
