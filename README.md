@@ -6,10 +6,10 @@
     </a>
   </p>
   <p align="center">
-    <a href="https://www.linkedin.com/in/dmitry-parshenkov">
+    <a href="https://www.linkedin.com/in/dmitry-parshenkov" target="blank">>
       <img src="./public/linkedin.svg" alt="LinkedIn" />
     </a>
-    <a href="https://github.com/truehhart">
+    <a href="https://github.com/truehhart" target="blank">>
       <img src="./public/github.svg" alt="GitHub" />
     </a>
   </p>
