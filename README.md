@@ -1,14 +1,50 @@
-# Dmitrii Parshenkov
+<!-- Minimal GitHub Profile README (HTML-first) -->
 
-Platform / DevOps / SRE. I build reliable, secure infrastructure that makes teams faster:
-Kubernetes · GitOps · Autoscaling · Observability · IaC.
+<div align="center">
+  <h1>Dmitrii Parshenkov</h1>
+  <p>
+    Platform / Automation / DevOps / System Reliability Engineer
+  </p>
 
-## Stack
-![Kubernetes](https://img.shields.io/badge/Kubernetes-—-lightgrey?logo=kubernetes)
-![Terraform](https://img.shields.io/badge/Terraform%2FOpenTofu-—-lightgrey?logo=terraform)
-![GitOps](https://img.shields.io/badge/GitOps%20(Argo%2FFlux)-—-lightgrey)
-![Prometheus](https://img.shields.io/badge/Prometheus%2FOTel-—-lightgrey?logo=prometheus)
-![AWS](https://img.shields.io/badge/AWS%2FAzure%2FGCP-—-lightgrey?logo=amazonaws)
+  <!-- Contact icons -->
+  <p>
+    <a href="mailto:d.parshenkov@truehhart.com" title="Email">
+      <img height="22" alt="Email" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gmail.svg" />
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/dmitry-parshenkov/" title="LinkedIn">
+      <img height="22" alt="LinkedIn" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg" />
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://github.com/truehhart" title="GitHub">
+      <img height="22" alt="GitHub" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg" />
+    </a>
+  </p>
+</div>
 
-- 🌐 https://truehhart.com  
-- 📫 d.parshenkov@truehhart.com
+<hr />
+
+<p>
+  I build reliable platforms for AI/ML workloads and high-traffic production systems — mostly around Kubernetes,
+  GitOps-driven delivery, cloud infrastructure, and observability.
+</p>
+
+<p>
+  <b>Focus:</b>
+  <code>Kubernetes</code> · <code>GitOps</code> · <code>CI/CD</code> · <code>AWS/Azure/GCP</code> ·
+  <code>IaC</code> · <code>Observability</code> · <code>Security/Compliance</code>
+</p>
+
+<p>
+  <b>Tooling:</b>
+  <code>Argo CD</code> <code>FluxCD</code> <code>Helm</code> <code>Kustomize</code> <code>Terraform/Terragrunt</code>
+  <code>GitHub Actions</code> <code>Prometheus</code> <code>OpenTelemetry</code> <code>Loki</code> <code>Grafana</code>
+</p>
+
+<p>
+  <b>Code:</b> <code>Go</code> <code>Python</code> <code>Bash</code>
+</p>
+
+<p>
+  <b>Languages:</b> English (C2) · German (B1) · French (B1) · Russian (Native)
+</p>
