@@ -20,7 +20,7 @@
 
 <hr />
 
-<div align="right" style="width: 52%;">
+<div align="left" style="width: 52%;">
   <h3>Skills</h3>
 
   <p>
@@ -45,7 +45,7 @@
     English (C2) · German (B1) · French (B1) · Russian (Native)
   </p>
 </div>
-<div align="left" style="width: 48%;">
+<div align="right" style="width: 48%;">
   <h3>Experience</h3>
 
   <ul>
