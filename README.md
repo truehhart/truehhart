@@ -7,11 +7,9 @@
     <a href="mailto:d.parshenkov@truehhart.com" title="Email">
       <img src="./public/mail.svg" alt="Email" width="26" height="26" />
     </a>
-    &nbsp;&nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/dmitry-parshenkov/" title="LinkedIn">
       <img src="./public/linkedin.svg" alt="LinkedIn" width="26" height="26" />
     </a>
-    &nbsp;&nbsp;&nbsp;
     <a href="https://github.com/truehhart" title="GitHub">
       <img src="./public/github.svg" alt="GitHub" width="26" height="26" />
     </a>
