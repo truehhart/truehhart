@@ -8,17 +8,9 @@
   <table align="center" cellspacing="0" cellpadding="0" style="border: none; border-collapse: collapse;">
     <tr>
       <td style="border: none; padding: 0 10px;">
-        <a href="mailto:d.parshenkov@truehhart.com" title="Email" style="text-decoration: none;">
-          <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="./public/mail-white.svg">
-            <img src="./public/mail-black.svg" alt="Email" width="26" height="26" />
-          </picture>
-        </a>
-      </td>
-      <td style="border: none; padding: 0 10px;">
         <a href="https://www.linkedin.com/in/dmitry-parshenkov/" title="LinkedIn" style="text-decoration: none;">
           <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="./public/linkedin-white.svg">
+            <source media="(prefers-color-scheme: dark)" srcset="./public/linkedin.svg">
             <img src="./public/linkedin-black.svg" alt="LinkedIn" width="26" height="26" />
           </picture>
         </a>
@@ -26,7 +18,7 @@
       <td style="border: none; padding: 0 10px;">
         <a href="https://github.com/truehhart" title="GitHub" style="text-decoration: none;">
           <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="./public/github-white.svg">
+            <source media="(prefers-color-scheme: dark)" srcset="./public/github.svg">
             <img src="./public/github-black.svg" alt="GitHub" width="26" height="26" />
           </picture>
         </a>
