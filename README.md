@@ -10,7 +10,6 @@
       d.parshenkov@truehhart.com
     </a>
   </p>
-
   <p align="center">
     <a href="https://www.linkedin.com/in/dmitry-parshenkov" target="blank">
       <img align="center" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/linkedin.svg" alt="dmitry-parshenkov" height="30" width="40" />
@@ -20,22 +19,8 @@
 
 <hr />
 
-<div align="left" style="width: 30%;">
+<div align="right" style="width: 30%;">
   <h3>Skills</h3>
-
-  <p>
-    <b>Focus:</b>
-    <code>Kubernetes</code> · <code>GitOps</code> · <code>CI/CD</code> · <code>AWS/Azure/GCP</code> ·
-    <code>IaC</code> · <code>Observability</code> · <code>Security/Compliance</code>
-  </p>
-
-  <p>
-    <b>Tooling:</b>
-    <code>Argo CD</code> <code>FluxCD</code> <code>Helm</code> <code>Kustomize</code>
-    <code>Terraform/Terragrunt</code> <code>GitHub Actions</code> <code>Prometheus</code>
-    <code>OpenTelemetry</code> <code>Loki</code> <code>Grafana</code>
-  </p>
-
   <p>
     <b>Code:</b> <code>Go</code> <code>Python</code> <code>Bash</code>
   </p>
@@ -48,13 +33,11 @@
 <div align="left" style="width: 48%;">
   <h3>Experience</h3>
 
-  <ul>
-    <p>
-      <b>Staff Platform Engineer &amp; CISO</b> — <a href="https://mostly.ai" target="_blank">MOSTLY AI</a>
-    </p>
-    <p>
-      <b>Head of Platform &amp; Automation</b> — <a href="https://mightycall.com" target="_blank">MightyCall</a>
-    </p>
-  </ul>
+  <p>
+    <b>Staff Platform Engineer &amp; CISO</b> — <a href="https://web.archive.org/web/20260108165132/https://mostly.ai/" target="_blank">MOSTLY AI</a>
+  </p>
+  <p>
+    <b>Head of Platform &amp; Automation</b> — <a href="https://mightycall.com" target="_blank">MightyCall</a>
+  </p>
 </div>
 <br clear="both" />
