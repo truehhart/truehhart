@@ -15,25 +15,26 @@
 
 <hr />
 
-<div style="display: flex; justify-content: space-between;">
-  <div style="width: 48%;">
-    <h3>Experience</h3>
-    <p>
-      <b>Staff Platform Engineer &amp; CISO</b> — <a href="https://web.archive.org/web/20260108165132/https://mostly.ai/" target="_blank">MOSTLY AI</a>
-    </p>
-    <p>
-      <b>Head of Platform &amp; Automation</b> — <a href="https://mightycall.com" target="_blank">MightyCall</a>
-    </p>
-  </div>
-  
-  <div style="width: 30%;">
-    <h3>Skills</h3>
-    <p>
-      <b>Code:</b> <code>Go</code> <code>Python</code> <code>Bash</code>
-    </p>
-    <p>
-      <b>Languages:</b>
-      English (C2) · German (B1) · French (B1) · Russian (Native)
-    </p>
-  </div>
-</div>
+<table>
+<tr>
+<td width="48%" valign="top">
+
+### Experience
+
+**Staff Platform Engineer & CISO** — [MOSTLY AI](https://web.archive.org/web/20260108165132/https://mostly.ai/)
+
+**Head of Platform & Automation** — [MightyCall](https://mightycall.com)
+
+</td>
+<td width="30%" valign="top">
+
+### Skills
+
+**Code:** `Go` `Python` `Bash`
+
+**Languages:**
+English (C2) · German (B1) · French (B1) · Russian (Native)
+
+</td>
+</tr>
+</table>
