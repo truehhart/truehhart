@@ -9,18 +9,12 @@
     <tr>
       <td style="border: none; padding: 0 10px;">
         <a href="https://www.linkedin.com/in/dmitry-parshenkov/" title="LinkedIn" style="text-decoration: none;">
-          <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="./public/linkedin.svg">
-            <img src="./public/linkedin-black.svg" alt="LinkedIn" width="26" height="26" />
-          </picture>
+          <img src="./public/linkedin.svg" alt="LinkedIn" width="24" height="24" />
         </a>
       </td>
       <td style="border: none; padding: 0 10px;">
         <a href="https://github.com/truehhart" title="GitHub" style="text-decoration: none;">
-          <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="./public/github.svg">
-            <img src="./public/github-black.svg" alt="GitHub" width="26" height="26" />
-          </picture>
+          <img src="./public/github.svg" alt="GitHub" width="24" height="24" />
         </a>
       </td>
     </tr>
