@@ -5,15 +5,13 @@
   </p>
   <p>
     <a href="mailto:d.parshenkov@truehhart.com" title="Email">
-      <img height="22" alt="Email" src="https://cdn.simpleicons.org/gmail/111111/FFFFFF" />
+      <img alt="Email" src="https://img.shields.io/badge/Email-d.parshenkov%40truehhart.com-111111?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
-    &nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/dmitry-parshenkov/" title="LinkedIn">
-      <img height="22" alt="LinkedIn" src="https://cdn.simpleicons.org/linkedin/0A66C2/FFFFFF" />
+      <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-dmitry--parshenkov-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
-    &nbsp;&nbsp;
     <a href="https://github.com/truehhart" title="GitHub">
-      <img height="22" alt="GitHub" src="https://cdn.simpleicons.org/github/111111/FFFFFF" />
+      <img alt="GitHub" src="https://img.shields.io/badge/GitHub-truehhart-111111?style=for-the-badge&logo=github&logoColor=white" />
     </a>
   </p>
 
