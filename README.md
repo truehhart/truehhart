@@ -1,16 +1,53 @@
-## Hi there 👋
+<div align="center">
+  <h1>Dmitrii Parshenkov</h1>
+  
+  <p>
+    Platform engineer building Kubernetes-based, GitOps-driven infrastructure for AI/ML workloads and high-traffic production systems across AWS/Azure/GCP.
+  </p>
+  
+  <p>
+    <a href="mailto:d.parshenkov@truehhart.com">d.parshenkov@truehhart.com</a> · 
+    <a href="https://www.linkedin.com/in/dmitry-parshenkov">linkedin.com/in/dmitry-parshenkov</a>
+  </p>
+</div>
 
-<!--
-**truehhart/truehhart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<hr />
 
-Here are some ideas to get you started:
+<table>
+<tr>
+<td width="48%"><h3>Experience</h3></td>
+<td width="52%"><h3>Skills</h3></td>
+</tr>
+<tr>
+<td width="48%" valign="top">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Staff Platform Engineer & CISO** @ [MOSTLY AI](https://web.archive.org/web/20260108165132/https://mostly.ai/)  
+  *Mar 2024 - Present*
+
+- **Head of Platform & Automation** @ [MightyCall](https://mightycall.com)  
+  *Dec 2021 - Mar 2024*
+
+- **Head of Customer Support** @ MightyCall  
+  *Nov 2019 - Dec 2021*
+
+</td>
+<td width="52%" valign="top">
+
+**Orchestration & IaC**  
+Kubernetes · ArgoCD · FluxCD · Terragrunt · Crossplane · Helm · Karpenter
+
+**Cloud & CI/CD**  
+AWS · Azure · GCP · GitHub Actions · Jenkins
+
+**Programming**  
+Go · Python · Bash
+
+**Observability**  
+Prometheus · Grafana · Loki · OpenTelemetry
+
+**Languages**  
+English (C2) · German (B1) · French (B1) · Russian (Native)
+
+</td>
+</tr>
+</table>
