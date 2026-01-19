@@ -49,12 +49,12 @@
   <h3>Experience</h3>
 
   <ul>
-    <li>
+    <p>
       <b>Staff Platform Engineer &amp; CISO</b> — <a href="https://mostly.ai" target="_blank">MOSTLY AI</a>
-    </li>
-    <li>
+    </p>
+    <p>
       <b>Head of Platform &amp; Automation</b> — <a href="https://mightycall.com" target="_blank">MightyCall</a>
-    </li>
+    </p>
   </ul>
 </div>
 <br clear="both" />
