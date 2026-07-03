@@ -8,7 +8,7 @@
   </p>
 
   <p>
-    <a href="https://www.linkedin.com/in/dmitry-parshenkov">linkedin.com/in/dmitry-parshenkov</a> ·
+    <a href="https://www.linkedin.com/in/dmitrii-parshenkov">linkedin.com/in/dmitrii-parshenkov</a> ·
     <a href="https://truehhart.com">truehhart.com</a>
   </p>
 </div>
