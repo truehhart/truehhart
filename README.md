@@ -1,13 +1,15 @@
 <div align="center">
+  <a href="#"><img src="public/banner.svg" width="100%" alt="" /></a>
   <h1>Dmitrii Parshenkov</h1>
-  
+  <p><em>Platform &amp; DevSecOps Engineer · Cloud Infrastructure &amp; Security · Batumi, GE 🇬🇪</em></p>
+
   <p>
-    Platform engineer building Kubernetes-based, GitOps-driven infrastructure for AI/ML workloads and high-traffic production systems across AWS/Azure/GCP.
+    Building cost-efficient, GitOps-driven Kubernetes platforms for AI/ML workloads and high-traffic production systems, and carrying companies through ISO 27001 &amp; SOC 2 audits. Agentbender and Claude Code enjoyer.
   </p>
-  
+
   <p>
-    <a href="mailto:d.parshenkov@truehhart.com">d.parshenkov@truehhart.com</a> · 
-    <a href="https://www.linkedin.com/in/dmitry-parshenkov">linkedin.com/in/dmitry-parshenkov</a>
+    <a href="https://www.linkedin.com/in/dmitry-parshenkov">linkedin.com/in/dmitry-parshenkov</a> ·
+    <a href="https://truehhart.com">truehhart.com</a>
   </p>
 </div>
 
@@ -21,29 +23,35 @@
 <tr>
 <td width="48%" valign="top">
 
-- **Staff Platform Engineer & CISO** @ [MOSTLY AI](https://web.archive.org/web/20260108165132/https://mostly.ai/)  
-  *Mar 2024 - Present*
+- **DevSecOps Engineer** @ Freelance  
+  *Mar 2026 - Present*
+
+- **Staff Platform Engineer & CISO** @ [MOSTLY AI](https://mostly.ai)  
+  *Mar 2024 - Mar 2026*
 
 - **Head of Platform & Automation** @ [MightyCall](https://mightycall.com)  
   *Dec 2021 - Mar 2024*
 
-- **Head of Customer Support** @ MightyCall  
-  *Nov 2019 - Dec 2021*
+- **DevOps · Head of Support** @ [MightyCall](https://mightycall.com)  
+  *2018 - 2021*
 
 </td>
 <td width="52%" valign="top">
 
 **Orchestration & IaC**  
-Kubernetes · ArgoCD · FluxCD · Terragrunt · Crossplane · Helm · Karpenter
+Kubernetes · EKS/ECS · ArgoCD · FluxCD · Terragrunt · OpenTofu · Crossplane · Helm · Karpenter
 
 **Cloud & CI/CD**  
-AWS · Azure · GCP · GitHub Actions · Jenkins
+AWS · Azure · GCP · GitHub Actions · Jenkins · ARC
+
+**Security & Compliance**  
+ISO 27001 · SOC 2 · HIPAA · GDPR · ISMS · Pentest · CAPA
 
 **Programming**  
-Go · Python · Bash
+Go · Python · Bash · Nushell
 
 **Observability**  
-Prometheus · Grafana · Loki · OpenTelemetry
+Prometheus · Grafana · Loki · Tempo · OpenTelemetry
 
 **Languages**  
 English (C2) · German (B1) · French (B1) · Russian (Native)
